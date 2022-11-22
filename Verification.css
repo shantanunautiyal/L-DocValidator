@@ -1,0 +1,635 @@
+.mediaViewInfo {
+	--web-view-name: Verification;
+	--web-view-id: Verification;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Verification;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Verification {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Verification;
+	--web-view-id: Verification;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Rectangle_167 {
+	fill: rgba(75,155,209,0.078);
+}
+.Rectangle_167 {
+	filter: drop-shadow(0px 3px 6px rgba(2, 17, 41, 0.4));
+	position: absolute;
+	overflow: visible;
+	width: 446px;
+	height: 464px;
+	left: 905px;
+	top: 193px;
+}
+#Path_611_es {
+	fill: rgba(17,44,62,1);
+}
+.Path_611_es {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1384px;
+	height: 67px;
+	left: 0px;
+	top: 60px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_158_et {
+	fill: rgba(33,68,145,1);
+}
+.Rectangle_158_et {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	height: 49px;
+	left: 210px;
+	top: 16px;
+}
+#DOCUMENT_VALIDATOR {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1002px;
+	top: 230px;
+	position: absolute;
+	overflow: visible;
+	width: 235px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Document_Type__Rent_Aggrement {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1014px;
+	top: 268px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Your_document_is_safe_and_have {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 980px;
+	top: 594px;
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Stamp_Paper__E-Stamp_Paper {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1037px;
+	top: 313px;
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Tampered {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1037px;
+	top: 345px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Details_Validation {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1037px;
+	top: 377px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Legally_Approved_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 207px;
+	top: 594px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#System_Template {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 209px;
+	top: 620px;
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Uploaded_Document {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 654.03px;
+	top: 594px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Help_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1311px;
+	top: 85px;
+	position: absolute;
+	overflow: visible;
+	width: 31px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Sign_In_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1233px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Sign_in.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#English_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1118px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_152_fa {
+	fill: url(#Rectangle_152_fa);
+}
+.Rectangle_152_fa {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 58px;
+	left: 15px;
+	top: 11px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#DV_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 24px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Pink_Student_Day_Instagram_Sto_e {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 1311px;
+	top: 12px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Sign_in.html;
+	cursor: pointer;
+}
+#Polygon_1_fa {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Polygon_1_fa {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 8px;
+	transform: matrix(1,0,0,1,1185,29) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Search__fb {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 250px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#icons8-search_fc {
+	fill: rgba(255,255,255,1);
+}
+.icons8-search_fc {
+	overflow: visible;
+	position: absolute;
+	width: 14.677px;
+	height: 15.623px;
+	transform: matrix(1,0,0,1,227.7682,23.1886) rotate(-2deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Cream_Corporate_Legal_Consulta_fd {
+	filter: drop-shadow(0px 3px 6px rgba(48, 99, 239, 0.251));
+	position: absolute;
+	width: 240.38px;
+	height: 340px;
+	left: 145.81px;
+	top: 230.23px;
+	overflow: visible;
+}
+#Ellipse_19 {
+	fill: rgba(17,44,62,1);
+}
+.Ellipse_19 {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 68px;
+	left: 482px;
+	top: 234px;
+}
+#Ellipse_20 {
+	fill: rgba(17,44,62,1);
+}
+.Ellipse_20 {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	height: 73px;
+	left: 439px;
+	top: 399px;
+}
+#Ellipse_21 {
+	fill: rgba(17,44,62,1);
+}
+.Ellipse_21 {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 421px;
+	top: 533px;
+}
+#Ellipse_22 {
+	fill: rgba(17,44,62,1);
+}
+.Ellipse_22 {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	height: 38px;
+	left: 464px;
+	top: 600px;
+}
+#Ellipse_24 {
+	fill: rgba(17,44,62,1);
+}
+.Ellipse_24 {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	height: 78px;
+	left: 698px;
+	top: 143px;
+}
+#Ellipse_23 {
+	fill: rgba(17,44,62,1);
+}
+.Ellipse_23 {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 935px;
+	top: 128px;
+}
+#Ellipse_25 {
+	fill: rgba(17,44,62,1);
+}
+.Ellipse_25 {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	height: 33px;
+	left: 1152px;
+	top: 143px;
+}
+#L-DocValidator_fl {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 65px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#L-DocValidator_is_an_site_whic_fm {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 305px;
+	top: 85px;
+	position: absolute;
+	overflow: visible;
+	width: 757px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#check-mark-box-line-icon {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 1002px;
+	top: 311px;
+	overflow: visible;
+}
+#Path_613 {
+	fill: rgba(80,185,91,1);
+}
+.Path_613 {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#check-mark-box-line-icon_fp {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 1002px;
+	top: 375px;
+	overflow: visible;
+}
+#Path_613_fq {
+	fill: rgba(80,185,91,1);
+}
+.Path_613_fq {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#square-line-icon {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 1002px;
+	top: 343px;
+	overflow: visible;
+}
+#Path_614 {
+	fill: rgba(0,0,0,1);
+}
+.Path_614 {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#approval {
+	position: absolute;
+	width: 194px;
+	height: 194px;
+	left: 1023px;
+	top: 400px;
+	overflow: visible;
+}
+#Image_2 {
+	filter: drop-shadow(0px 3px 6px rgba(48, 99, 239, 0.161));
+	position: absolute;
+	width: 247.941px;
+	height: 340px;
+	left: 598.059px;
+	top: 230.23px;
+	overflow: visible;
+}
+#Ellipse_8_fv {
+	fill: rgba(52,23,117,0.902);
+	stroke: rgba(65,3,96,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_8_fv {
+	filter: drop-shadow(0px 3px 6px rgba(167, 70, 252, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 23px;
+	left: 874px;
+	top: 729px;
+}
+#Path_612_fw {
+	fill: rgba(17,44,62,1);
+}
+.Path_612_fw {
+	filter: drop-shadow(0px 3px 6px rgba(103, 154, 232, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1384px;
+	height: 67px;
+	left: 0px;
+	top: 719px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_2022_L-DocValidator_All_Righ_fx {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 520px;
+	top: 740px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	height: 19px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Privacy_Policy_fy {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1080px;
+	top: 740px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Contact_Us_fz {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1227px;
+	top: 740px;
+	position: absolute;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
